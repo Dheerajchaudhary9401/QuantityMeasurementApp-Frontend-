@@ -9,14 +9,14 @@ body { font-family: 'Segoe UI', sans-serif; background: #f0f2f5; }
   justify-content: space-between;
   padding: 0 40px;
   height: 56px;
-  background: rgb(217, 213, 213);
+  background: white;
   box-shadow: 0 1px 4px rgba(0,0,0,0.1);
 }
 
 .brand {
   font-size: 20px;
   font-weight: 700;
-  color: #252424;
+  color: #222;
 }
 
 .nav-links {
@@ -34,7 +34,7 @@ body { font-family: 'Segoe UI', sans-serif; background: #f0f2f5; }
 .nav-link:hover { color: #3a7bd5; }
 .nav-link.logout:hover { color: #c0392b; }
 .nav-link.login-btn {
-  background: #838797;
+  background: #4a6cf7;
   color: white;
   padding: 6px 16px;
   border-radius: 20px;
@@ -44,7 +44,7 @@ body { font-family: 'Segoe UI', sans-serif; background: #f0f2f5; }
 
 /* Hero */
 .hero-banner {
-  background: #7c89c1;
+  background: #4a6cf7;
   color: white;
   text-align: center;
   padding: 32px 20px;
@@ -87,7 +87,7 @@ body { font-family: 'Segoe UI', sans-serif; background: #f0f2f5; }
 }
 
 .type-card {
-  background: rgb(241, 239, 239);
+  background: white;
   border-radius: 12px;
   padding: 24px 16px;
   text-align: center;
